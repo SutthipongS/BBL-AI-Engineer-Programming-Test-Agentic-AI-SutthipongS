@@ -15,3 +15,6 @@ The system orchestrates a sequential workflow with two specialized agents:
 1. Install dependencies:
    ```bash
    pip install langgraph langchain-core langchain-google-genai
+Set your Google Gemini API key as an environment variable (or within the script).
+
+Run the orchestration script:
