@@ -5,7 +5,7 @@ This repository contains a Multi-Agent system implementing a Retrieval-Augmented
 ## Repository Contents
 - `main.ipynb`: The main Jupyter Notebook containing the multi-agent orchestration code.
 - `knowledge_base.txt`: The text file acting as the data source for the RAG system.
-- `image_c70153.png`: A screenshot demonstrating the successful execution and final output of the agents.
+- `Screenshot final output.png`: A screenshot demonstrating the successful execution and final output of the agents.
 
 ## Workflow Orchestration
 The system orchestrates a sequential workflow with two specialized agents:
